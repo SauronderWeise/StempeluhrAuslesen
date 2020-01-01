@@ -1,0 +1,14 @@
+C:\Users\timms\source\repos\Stempeluhr\Stempeluhr\obj\Debug\Stempeluhr.vbprojAssemblyReference.cache
+C:\Users\timms\source\repos\Stempeluhr\Stempeluhr\obj\Debug\Stempeluhr.Form1.resources
+C:\Users\timms\source\repos\Stempeluhr\Stempeluhr\obj\Debug\Stempeluhr.Resources.resources
+C:\Users\timms\source\repos\Stempeluhr\Stempeluhr\obj\Debug\Stempeluhr.vbproj.GenerateResource.cache
+C:\Users\timms\source\repos\Stempeluhr\Stempeluhr\obj\Debug\Stempeluhr.vbproj.CoreCompileInputs.cache
+C:\Users\timms\source\repos\Stempeluhr\Stempeluhr\bin\Debug\Stempeluhr.mdf
+C:\Users\timms\source\repos\Stempeluhr\Stempeluhr\bin\Debug\Stempeluhr_log.ldf
+C:\Users\timms\source\repos\Stempeluhr\Stempeluhr\bin\Debug\Stempeluhr.exe.config
+C:\Users\timms\source\repos\Stempeluhr\Stempeluhr\bin\Debug\Stempeluhr.exe
+C:\Users\timms\source\repos\Stempeluhr\Stempeluhr\bin\Debug\Stempeluhr.pdb
+C:\Users\timms\source\repos\Stempeluhr\Stempeluhr\bin\Debug\Stempeluhr.xml
+C:\Users\timms\source\repos\Stempeluhr\Stempeluhr\obj\Debug\Stempeluhr.exe
+C:\Users\timms\source\repos\Stempeluhr\Stempeluhr\obj\Debug\Stempeluhr.xml
+C:\Users\timms\source\repos\Stempeluhr\Stempeluhr\obj\Debug\Stempeluhr.pdb
